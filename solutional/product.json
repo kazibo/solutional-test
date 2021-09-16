@@ -1,0 +1,1 @@
+[{"model": "mainapp.product", "pk": 123, "fields": {"name": "Ketchup", "price": 0.45}}, {"model": "mainapp.product", "pk": 456, "fields": {"name": "Beer", "price": 2.33}}, {"model": "mainapp.product", "pk": 879, "fields": {"name": "Õllesnäkk", "price": 0.42}}, {"model": "mainapp.product", "pk": 999, "fields": {"name": "75\" OLED TV", "price": 1333.37}}]
